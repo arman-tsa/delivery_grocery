@@ -4,6 +4,7 @@ export const BOTTOM_TAB = "BottomTab";
 //stack
 export const ORDER_STACK = "OrderStack";
 export const PROFILE_STACK = "ProfileStack";
+export const NOTIFICATION_STACK = "NotificationoStack";
 export const MAIN_STACK = "MainStack";
 
 //screens

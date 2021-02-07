@@ -1,0 +1,19 @@
+{
+    "plugins": [
+      [
+        "module-resolver",
+        {
+          "root": [
+            "./"
+          ],
+          "alias": {
+            "components": "./src/Components",
+            "screens": "./src/Screens",
+            "global": "./src/global",
+            "navigation": "./src/navigation",
+            "assets": "./src/assets"
+          }
+        }
+      ]
+    ]
+  }
